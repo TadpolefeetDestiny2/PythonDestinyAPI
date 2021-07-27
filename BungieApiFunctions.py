@@ -2,8 +2,6 @@ import requests
 
 my_headers = {'X-API-Key': 'APIKEY'}
 destiny_Membership_Id = 4611686018484802398
-membershipId = 21713117
-
 
 
 def ChoosePlatform(types):
